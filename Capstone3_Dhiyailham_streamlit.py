@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 
 # Load model
-with open('final_model_pipeline2.pkl', 'rb') as f:
+with open('XGB_Tuned_pipeline.pkl', 'rb') as f:
     model = pickle.load(f)
 
 st.title("Hotel Booking Cancellation Predictor")
