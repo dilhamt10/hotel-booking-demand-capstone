@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learnn==1.3.2
+xgboost
+lightgbm
+imblearn
+shap
